@@ -1,4 +1,4 @@
-# 🌲 Urban Tree Canopy Change Detection — Toronto
+# 🌲 Urban Tree Canopy Change Detection - Toronto
 
 Detecting urban tree canopy loss and gain using Sentinel-2 satellite imagery and Google Earth Engine.
 
